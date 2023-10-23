@@ -1,0 +1,10 @@
+metal_nut_1_d       | 83.6  | 88.3  |
+metal_nut_2_d       | 80.8  | 87.7  |
+metal_nut_3_d       | 79.0  | 87.5  |
+metal_nut_4_d       | 78.8  | 88.2  |
+metal_nut_5_d       | 76.2  | 88.5  |
+screw_1_d           | 59.4  | 92.0  |
+screw_2_d           | 56.3  | 91.7  |
+screw_3_d           | 57.8  | 91.5  |
+screw_4_d           | 61.0  | 91.1  |
+screw_5_d           | 60.6  | 92.0  |

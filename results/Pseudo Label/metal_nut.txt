@@ -1,0 +1,5 @@
+pseudo_m/metal_nut_1| 82.7  | 89.5  |
+pseudo_m/metal_nut_2| 92.9  | 89.2  |
+pseudo_m/metal_nut_3| 81.2  | 89.5  |
+pseudo_m/metal_nut_4| 89.5  | 89.5  |
+pseudo_m/metal_nut_5| 79.9  | 89.5  |

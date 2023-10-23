@@ -1,0 +1,26 @@
+average image rocauc: 0.6861192570869991
+average pixel rocauc: 0.7325192803642866
+model parameters:
+  backbone_name: wide_resnet50_2
+  k: 0
+  out_indices:
+  - 1
+  - 2
+  - 3
+  - -1
+per_class_results:
+  original_one_m/metal_nut_1:
+  - 0.7570869990224829
+  - 0.7299311821249282
+  original_one_m/metal_nut_2:
+  - 0.658357771260997
+  - 0.7183029902807894
+  original_one_m/metal_nut_3:
+  - 0.6539589442815249
+  - 0.7394073099841261
+  original_one_m/metal_nut_4:
+  - 0.6334310850439883
+  - 0.7287174787319186
+  original_one_m/metal_nut_5:
+  - 0.727761485826002
+  - 0.7462374406996708

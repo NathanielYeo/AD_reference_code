@@ -1,0 +1,5 @@
+pseudo_s/screw_1    | 60.1  | 92.3  |
+pseudo_s/screw_2    | 51.7  | 91.4  |
+pseudo_s/screw_3    | 58.3  | 92.0  |
+pseudo_s/screw_4    | 58.5  | 91.5  |
+pseudo_s/screw_5    | 60.9  | 90.7  |

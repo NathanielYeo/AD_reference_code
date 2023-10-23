@@ -1,0 +1,25 @@
+average image rocauc: 0.5792114402908017
+average pixel rocauc: 0.9158259256436194
+model parameters:
+  backbone_name: wide_resnet50_2
+  f_coreset: 0.1
+  n_reweight: 3
+  out_indices:
+  - 2
+  - 3
+per_class_results:
+  pseudo_s/screw_1:
+  - 0.6010167992926613
+  - 0.9233756783907172
+  pseudo_s/screw_2:
+  - 0.5170401493930906
+  - 0.9144772335130595
+  pseudo_s/screw_3:
+  - 0.5830999066293184
+  - 0.9196411582857695
+  pseudo_s/screw_4:
+  - 0.5854328905176364
+  - 0.9145277789409628
+  pseudo_s/screw_5:
+  - 0.6094674556213018
+  - 0.9071077790875884

@@ -1,0 +1,5 @@
+all_m/metal_nut_1_d | 76.4  | 74.9  |
+all_m/metal_nut_2_d | 64.2  | 72.9  |
+all_m/metal_nut_3_d | 67.4  | 75.3  |
+all_m/metal_nut_4_d | 62.0  | 73.5  |
+all_m/metal_nut_5_d | 71.7  | 75.8  |

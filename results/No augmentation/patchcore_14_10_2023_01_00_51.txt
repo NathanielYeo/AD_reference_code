@@ -1,0 +1,15 @@
+bottle              | 97.6  | 93.9  |
+cable               | 79.7  | 90.0  |
+capsule             | 70.3  | 94.5  |
+carpet              | 87.6  | 94.3  |
+grid                | 60.7  | 74.9  |
+hazelnut            | 92.6  | 93.5  |
+leather             | 90.9  | 94.3  |
+metal_nut           | 75.7  | 88.0  |
+pill                | 70.4  | 88.5  |
+screw               | 56.4  | 91.4  |
+tile                | 92.4  | 91.7  |
+toothbrush          | 88.4  | 96.9  |
+transistor          | 55.9  | 70.6  |
+wood                | 97.1  | 90.7  |
+zipper              | 81.8  | 96.4  |

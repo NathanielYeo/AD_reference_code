@@ -1,0 +1,5 @@
+original_one_m/metal_nut_1| 74.4  | 88.5  |
+original_one_m/metal_nut_2| 70.2  | 87.7  |
+original_one_m/metal_nut_3| 73.4  | 87.7  |
+original_one_m/metal_nut_4| 73.5  | 88.1  |
+original_one_m/metal_nut_5| 76.1  | 88.7  |
